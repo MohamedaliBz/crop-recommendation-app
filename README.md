@@ -34,3 +34,13 @@ L'application est déployée sur Streamlit Cloud pour un accès public en ligne.
 
 # 📸 Capture d'écran
 ![Capture d'écran de l'application](assets/screenshot.png)
+
+## 👨‍💻 Auteur
+
+- **Mohamed Ali Baazaoui**
+- [LinkedIn](https://www.linkedin.com/in/mohamed-ali-baazaoui-97369a217/)
+- [GitHub](https://github.com/MohamedaliBz)
+
+## 📜 Licence
+
+Ce projet est sous licence **MIT** – voir le fichier [LICENSE](LICENSE) pour plus d’informations.
