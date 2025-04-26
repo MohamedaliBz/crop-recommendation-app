@@ -33,4 +33,4 @@ streamlit run app.py
 L'application est déployée sur Streamlit Cloud pour un accès public en ligne.
 
 # 📸 Capture d'écran
-![Capture d'écran de l'application](C:\Users\moham\OneDrive\Bureau\mini-projet ML\screenshot.png)
+![Capture d'écran de l'application](assets/screenshot.png)
